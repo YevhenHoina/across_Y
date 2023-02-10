@@ -51,6 +51,8 @@ Plugins/*/Binaries/*
 
 # Builds
 Build/*
+MS_InteriorPlasterV2/
+MSPresets/
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/

@@ -12,3 +12,4 @@ public class Rotating_FightingTarget : TargetRules
 		ExtraModuleNames.AddRange( new string[] { "Rotating_Fighting" } );
 	}
 }
+// super test

@@ -78,3 +78,4 @@ DerivedDataCache/*
 #Source contetnt
 Source/*
 !Source/*.cs
+!Source/*.json
